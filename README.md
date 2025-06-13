@@ -26,7 +26,7 @@
 - 🍱 **[밀키트 판매 플랫폼](https://github.com/chonsa29/spring_project)**  
   Spring과 Vue를 이용한 밀키트 이커머스 플랫폼. 제품 등록, 장바구니, 결제 등 전자상거래 기능 구현.
 
-- 🎭 **[뮤지컬 예매 플랫폼](https://github.com/sbsssb/musical-booking)**  
+- 🎭 **[뮤지컬 예매 플랫폼](https://github.com/chachaziyo/musicAll)**  
   공연 정보 조회, 좌석 예매, 리뷰 작성 기능을 갖춘 뮤지컬 예매 웹서비스.
 
 ---
