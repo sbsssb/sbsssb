@@ -32,8 +32,7 @@
 ---
 
 ### 📫 Contact
-- Email: yourmail@example.com
-- Blog: [https://yourblog.com](https://yourblog.com)
+- Email: been4022@gmail.com
 
 ---
 
